@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/main.dir/offboardcontrol.cpp.o  -o main  -L/usr/local/lib -Wl,-rpath,/usr/local/lib -ldronecode_sdk -ldronecode_sdk_action -ldronecode_sdk_offboard -ldroncecode_sdk_telemetry 

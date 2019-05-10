@@ -1,0 +1,3 @@
+/home/nvidia/github/Dronce-test-sdk/1.DetectObj/build/CMakeFiles/edit_cache.dir
+/home/nvidia/github/Dronce-test-sdk/1.DetectObj/build/CMakeFiles/rebuild_cache.dir
+/home/nvidia/github/Dronce-test-sdk/1.DetectObj/build/CMakeFiles/offboard.dir
